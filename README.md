@@ -1,2 +1,4 @@
 # template-scrum
 Template para os estudos de Certificação Scrum
+
+(https://miro.com/welcomeonboard/bXFJb1dDN0hBcjBuakhlMmxoNk5pbXlvRmdkQkFvNGU1dVZCSGVhaXhIZHdxc25MbzJaWmdPcHRvWXNvM01wTnwzMDc0NDU3MzU4NTY2MTYwNTY0fDI=?share_link_id=242717169281)
